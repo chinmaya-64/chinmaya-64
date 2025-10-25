@@ -1,4 +1,4 @@
- I am chinmaya This is my first repository
+ I am chinmaya <b> This is my first repository
 
 <!--
 **chinmaya-64/chinmaya-64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
